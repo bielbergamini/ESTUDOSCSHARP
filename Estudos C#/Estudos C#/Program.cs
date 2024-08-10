@@ -117,7 +117,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
         }
     }
-    */
+    
      using System;
 
     namespace MyApp
@@ -137,6 +137,42 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
         }
     }
+    */
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double a;
+            float b;
+
+            a = 5.1;
+            b = (float)a;
+
+            Console.WriteLine(b);
+
+            double c;
+            int d;
+
+            c = 5.1;
+            d = (int)c;
+
+            Console.WriteLine(d);
+
+            int e = 5;
+            int f = 2;
+
+            double resultado = (double) e / f;
+
+            Console.WriteLine(resultado);
+
+
+        }
+    }
+    
 }
 
-    
+
+
+
+
+

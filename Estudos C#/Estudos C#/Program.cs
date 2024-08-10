@@ -67,7 +67,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
  Medida com oito casas decimais: 53,23456700
  Arredondado(três casas decimais) : 53,235
  Separador decimal invariant culture: 53.235
-  */
+  
     public class ExercicioSaidaDados
     {
         static void Main(string[] args)
@@ -90,9 +90,53 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine($"Arredondado (Três casas decimais) : {medida:F3}");
         }
     }
+    
+    using System;
 
+    namespace MyApp 
+    {
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                int a = 10;
+                Console.WriteLine(a);
 
+                a += 2;
+                Console.WriteLine(a);
 
+                a *= 3;
+                Console.WriteLine(a);
 
+                string s = "ABC";
+                Console.WriteLine(s);
 
+                s += "DEF";
+                Console.WriteLine(s);
+
+            }
+        }
+    }
+    */
+     using System;
+
+    namespace MyApp
+    {
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                int a = 10;
+                a++;
+                    Console.WriteLine(a);
+
+                int b = 10;
+                b--;
+                Console.WriteLine(b);
+
+            }
+        }
+    }
 }
+
+    

@@ -290,28 +290,82 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(altura);
         }
     }
-    */
+
+
+     
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            int A, B, soma;
+            int A = 10;
+            int B = 20;
 
-            A = int.Parse(Console.ReadLine());
-            B = int.Parse(Console.ReadLine());
+            int resultado = (A + B);
 
-            soma = A + B;
+            Console.WriteLine($"SOMA = {resultado}"); 
 
-            Console.WriteLine("SOMA = " + soma);
+        }
+    }
 
+    
+
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+
+            Console.WriteLine("Insira um numero");
+            int x = int.Parse(Console.ReadLine());
+
+            if (x % 2 == 0)
+            {
+                Console.WriteLine("Par");
+            }
+            else
+            {
+                Console.WriteLine("Impar");
+            }
+
+    
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Qual a hora atual");
+            int hora = int.Parse(Console.ReadLine());
+            if (hora < 12)
+            {
+                Console.WriteLine("Bom dia!");
+            }
+            else if (hora >= 12 && hora <  18)
+            {
+                Console.WriteLine("Boa tarde !");
+            }
+            else if(hora >= 18){
+                Console.WriteLine("Boa noite");
+            }
+
+            
         }
     }
 
 
 
+    */
+
+
+
+
 
 }
+
+
+
 
 
 

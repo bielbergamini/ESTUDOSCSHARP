@@ -14,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\Estudos C#\\Program.cs",
               "RelativeDocumentMoniker": "Estudos C#\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\Estudos C#\\Program.cs",
-              "RelativeToolTip": "Estudos C#\\Program.cs",
-              "ViewState": "AQIAABoBAAAAAAAAAAAAACwBAAAMAAAA",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\Estudos C#\\Program.cs*",
+              "RelativeToolTip": "Estudos C#\\Program.cs*",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAYwF0BAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T16:01:02.483Z",
+              "WhenOpened": "2024-08-15T22:11:26.522Z",
               "EditorCaption": ""
             }
           ]

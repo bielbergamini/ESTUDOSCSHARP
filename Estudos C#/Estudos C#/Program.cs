@@ -356,9 +356,66 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
 
 
+    
+
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = int.Parse(Console.ReadLine());
+
+            if (x <= -1)
+            {
+                Console.WriteLine("NEGATIVO");
+            }
+            else if (x == 0)
+            {
+                Console.WriteLine("NÃO NEGATIVO");
+            }
+            else if (x >= 0)
+            {
+                Console.WriteLine("NÃO NEGATIVO");
+            }
+                
+                 
+        }
+        
+
+    }
+
+
+    
+
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = int.Parse(Console.ReadLine());
+
+            if (x % 2 == 0 )
+            {
+                Console.WriteLine("PAR");
+            }
+            else
+            {
+                Console.WriteLine("IMPAR");
+            }
+
+
+        }
+    }
+
     */
 
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
 
+        }
+    }
 
 
 

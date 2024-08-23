@@ -407,7 +407,30 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
     }
 
+    
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite um numero: ");
+            int senha = int.Parse(Console.ReadLine());
+
+            int senhacorreta = 2002;
+
+            while (senha != senhacorreta)
+            {
+                Console.WriteLine("senha incorreta");
+                senha = int.Parse(Console.ReadLine());
+
+            }
+            Console.WriteLine("senha correta");
+        }
+
+    }
     */
+
+
 
     internal class Program
     {
@@ -416,7 +439,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         }
     }
-
 
 
 }

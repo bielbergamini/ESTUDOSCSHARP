@@ -1,8 +1,10 @@
 ﻿using POO;
 using System;
+using System.Collections.Concurrent;
+using System.Globalization;
 
 namespace MyApp // Note: actual namespace depends on the project name.
-    
+
 {
     /*
     internal class Program
@@ -38,9 +40,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         }
     }
-    */
+    
 
-    using System;
+
 
     namespace MyApp // Note: actual namespace depends on the project name.
     {
@@ -67,4 +69,36 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
         }
     }
+    */
+
+    internal class Program
+    {
+        static void Main(string[] args)
+
+        {
+            Funcionario func = new Funcionario();
+
+
+
+
+            Console.Write("Nome: ");
+            func.Nome = Console.ReadLine();
+            Console.Write("Salário bruto: ");
+            func.SalarioBr = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Imposto: ");
+            func.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine($"Funcionário: {func.Nome}, {func.SalarioBr - func.Imposto}{CultureInfo.InvariantCulture}");
+
+
+
+
+
+
+        }
+    }
 }
+
+
+
+
+

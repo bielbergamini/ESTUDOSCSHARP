@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\bin\Debug\net6.0\EmpresaCSHARP.exe
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\bin\Debug\net6.0\EmpresaCSHARP.deps.json
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\bin\Debug\net6.0\EmpresaCSHARP.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\bin\Debug\net6.0\EmpresaCSHARP.dll
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\bin\Debug\net6.0\EmpresaCSHARP.pdb
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.dll
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\refint\EmpresaCSHARP.dll
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.pdb
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\EmpresaCSHARP.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\ESTUDOSCSHARP\Estudos C#\EmpresaCSHARP\EmpresaCSHARP\obj\Debug\net6.0\ref\EmpresaCSHARP.dll

@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.exe
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.deps.json
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.runtimeconfig.json
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.dll
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\net6.0\ExercicioVetores.pdb
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.dll
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\refint\ExercicioVetores.dll
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.pdb
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ExercicioVetores.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\net6.0\ref\ExercicioVetores.dll

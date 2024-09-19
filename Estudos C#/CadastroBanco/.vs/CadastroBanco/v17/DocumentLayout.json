@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\CadastroBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BB5B2-5E67-4FB4-AC84-4630FC66A404}|CadastroBanco\\CadastroBanco.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\cadastrobanco\\cadastrobanco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BB5B2-5E67-4FB4-AC84-4630FC66A404}|CadastroBanco\\CadastroBanco.csproj|solutionrelative:cadastrobanco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BB5B2-5E67-4FB4-AC84-4630FC66A404}|CadastroBanco\\CadastroBanco.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\cadastrobanco\\cadastrobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BB5B2-5E67-4FB4-AC84-4630FC66A404}|CadastroBanco\\CadastroBanco.csproj|solutionrelative:cadastrobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\CadastroBanco\\CadastroBanco\\Conta.cs",
+              "RelativeDocumentMoniker": "CadastroBanco\\Conta.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\CadastroBanco\\CadastroBanco\\Conta.cs",
+              "RelativeToolTip": "CadastroBanco\\Conta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:31:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\CadastroBanco\\CadastroBanco\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\CadastroBanco\\CadastroBanco\\Program.cs",
+              "RelativeToolTip": "CadastroBanco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:22:58.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

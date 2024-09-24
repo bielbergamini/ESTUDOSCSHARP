@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\gabri\\source\\repos\\exerciciovetores\\exerciciovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\exerciciovetores\\exerciciovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|solutionrelative:exerciciovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\gabri\\source\\repos\\exerciciovetores\\exerciciovetores\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\exerciciovetores\\exerciciovetores\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E89945-524F-439F-BFE4-F130AF3985EF}|ExercicioVetores\\ExercicioVetores.csproj|solutionrelative:exerciciovetores\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Livros.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\Livros.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\Livros.cs",
               "RelativeDocumentMoniker": "ExercicioVetores\\Livros.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\Livros.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\Livros.cs",
               "RelativeToolTip": "ExercicioVetores\\Livros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:41:42.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:41:42.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioVetores\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\Program.cs",
               "RelativeToolTip": "ExercicioVetores\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T01:41:07.673Z",
               "EditorCaption": ""

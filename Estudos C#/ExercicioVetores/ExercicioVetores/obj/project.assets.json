@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\ExercicioVetores.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\ExercicioVetores.csproj",
       "projectName": "ExercicioVetores",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\ExercicioVetores.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\ExercicioVetores.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\ExercicioVetores\\ExercicioVetores\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\ExercicioVetores\\ExercicioVetores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

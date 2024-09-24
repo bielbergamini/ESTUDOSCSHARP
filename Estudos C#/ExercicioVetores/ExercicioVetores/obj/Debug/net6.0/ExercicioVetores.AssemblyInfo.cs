@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioVetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bbe88a7610bd1f91378c2312a93721b426ab93")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioVetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioVetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

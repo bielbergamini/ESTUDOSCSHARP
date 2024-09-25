@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADED83CB-EC61-4394-90F5-30A81787C9AB}|Listas\\Listas.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\empresacsharp\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED83CB-EC61-4394-90F5-30A81787C9AB}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED83CB-EC61-4394-90F5-30A81787C9AB}|Listas\\Listas.csproj|c:\\users\\gabri\\onedrive\\documentos\\estudoscsharp\\estudos c#\\empresacsharp\\listas\\listas\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED83CB-EC61-4394-90F5-30A81787C9AB}|Listas\\Listas.csproj|solutionrelative:listas\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\EmpresaCSHARP\\Listas\\Listas\\Employee.cs",
+              "RelativeDocumentMoniker": "Listas\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\EmpresaCSHARP\\Listas\\Listas\\Employee.cs",
+              "RelativeToolTip": "Listas\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:19:15.133Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Listas\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\ESTUDOSCSHARP\\Estudos C#\\EmpresaCSHARP\\Listas\\Listas\\Program.cs",
               "RelativeToolTip": "Listas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv00AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T00:55:23.627Z",
               "EditorCaption": ""

@@ -15,7 +15,7 @@ namespace Listas
 
 
 
-        public Employee(int id, string name, int salary)
+        public Employee(int id, string name, double salary)
         {
             Name = name;
             Id = id;
@@ -23,9 +23,9 @@ namespace Listas
 
         }
 
-        public void IncreaseSalary(int percentage)
+        public void IncreaseSalary(double percentage)
         {
-            Salary += Salary * percentage / 100;
+            Salary += Salary * percentage / 100.0;
         }
 
         public override string ToString()

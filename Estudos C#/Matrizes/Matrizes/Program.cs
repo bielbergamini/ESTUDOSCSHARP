@@ -2,6 +2,7 @@
 
 namespace Course
 {
+    /*
     class Program
     {
         static void Main(string[] args)
@@ -42,4 +43,72 @@ namespace Course
 
         }
     }
+    
+
+    using System;
+
+    namespace MyApp // Note: actual namespace depends on the project name.
+    {
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                int n = int.Parse(Console.ReadLine());
+                int m = int.Parse(Console.ReadLine());
+                int[,] mat = new int[n, m];
+
+               
+
+            }
+        }
+    */
+
+
+    using System;
+    using System.Security.Cryptography.X509Certificates;
+
+    namespace MyApp // Note: actual namespace depends on the project name.
+    {
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                Console.Write("Insira o valor do calculo: ");
+                int n = int.Parse(Console.ReadLine());
+
+                for (int i = 1; i <= 10; i++)
+                {
+                    for (i = 1; i <= 11; i++) // Ajustei para testar até 12, você pode mudar conforme necessário
+                    {
+                        if (i >= 1 && i <= 10)  // Verifica se o multiplicador está entre 1 e 10
+                        {
+                            int resultado = n * i;
+                            Console.WriteLine($"{n} x {i} = {resultado}");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"{n} x {i} está fora do intervalo (1 a 10), cálculo ignorado.");
+                        }
+                    }
+
+
+
+                }
+
+        
+
+
+
+
+
+
+
+
+
+            }
+        }
+    }
 }
+
+
+
